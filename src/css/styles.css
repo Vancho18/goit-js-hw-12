@@ -12,3 +12,6 @@
 
 /* Sections style */
 @import url('./gallery.css');
+.hidden {
+  display: none;
+}
